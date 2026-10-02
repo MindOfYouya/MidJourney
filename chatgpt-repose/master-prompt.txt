@@ -1,0 +1,28 @@
+TASK
+Using the attached image as the strict reference for character design and artistic style, create ONE single full-body illustration of the same goblin apothecary in a NEW pose. Treat the image as a character and style reference only: do not edit, trace or reuse its silhouette, arm positions, head angle or flask height; paint a new figure from scratch in the pose given under POSE. It must read as the same character, painted by the same artist.
+
+FORMAT
+ONE isolated full-body figure on the same plain near-white background, with the same soft, textured ground shadow reshaped to the new pose. Portrait orientation. The entire figure inside the frame with about 8 percent empty margin: both ears, both hands, flask, satchel, pouch, coat hem and both pointed boots uncropped. No text, panels or extra figures, and no props or scenery except any single prop named under POSE.
+
+SIDES
+Left and right mean the viewer's left and right unless I write "his". Never mirror the character: the diagonal strap runs from the viewer's-left shoulder across the chest to the large satchel at the viewer's-right hip, and the round medicine pouch hangs at the front of the belt toward the viewer's left. His right hand is on the viewer's left.
+
+CHARACTER
+A lean adult goblin with sage-green skin, an angular expressive face, a long narrow neck, enormous outward-pointing ears with warm salmon interiors and notched edges, a broad bulbous nose, amber eyes, thick dark eyebrows, sparse wiry dark hair, uneven protruding teeth and scattered chin stubble. Keep the reference proportions: expressive head, wide ears, narrow shoulders, long neck, lean torso, thin limbs, prominent hands and pointed boots. Keep hands anatomically coherent, grips readable and limbs clearly separated. Infer unseen costume construction conservatively.
+
+COSTUME (exact, invent nothing)
+A distressed plum-purple long coat with frayed edges, muted blue-grey patches and irregular stitching; a loose open-collar cream shirt with oversized turned-back cuffs; cropped brown trousers; worn pointed brown ankle boots with folded cuffs and straps; a diagonal brown leather shoulder strap; a large buckled satchel; a rounded leather medicine pouch with a small rust-brown vial at its top; a dark sash with a red accent at the belt and a small frayed grey cloth hanging at the belt. Same patch placement as the reference. Signature object: the reference's chunky faceted glass flask with cloudy yellow-green liquid and a rough cork.
+
+STYLE (match the attached image)
+Stylized 2D painterly character concept art with convincing dimensional volume: angular painted forms, faceted colour planes, layered opaque paint, rough dry-brush marks, broken textured edges and small scratch-like accents. Use the same sage-green skin, plum and burgundy clothing, warm cream fabric, weathered ochre-brown leather, peach-orange highlights and cool blue-violet shadow accents. Match the reference's brightness, saturation and painted surface quality. Lighting stays fixed whatever the pose: warm key light from the upper right, peach-orange highlights on the viewer's-right edges, cool blue-violet shadows opposite. Keep the small, low-contrast halftone dots integrated into shaded areas of skin, fabric and leather, blended into the painted shading without becoming a dominant pattern. Keep only selective broken dark edge accents, garment stitching and wiry facial hairs. Painted glass highlights on the flask match the reference. The figure must look painted by the same artist, with the same brushes and palette. No thick uniform outlines, smooth airbrushing, glossy 3D materials, photorealism, clean vector fills or a different rendering technique.
+
+POSE (follow exactly)
+Tired road walk, mid-stride.
+View: front-three-quarter, turned about 55 degrees toward the viewer's left, chest still visible, walking that way; head turned about 30 degrees back toward the camera so both ears and the amber eyes stay visible.
+Legs: viewer's-left leg forward, heel down, toe up; viewer's-right leg trailing, heel lifted; both boots fully visible.
+Torso and head: leans forward about 15 degrees, shoulders dropped; chin lowered about 10 degrees, heavy-lidded amber eyes on the road, one brow raised; nose and both ears clearly visible.
+His right arm (viewer's left): elbow slightly bent, swinging forward and away from the body, hand holding the flask upright by its body at waist height, clear of the pouch.
+His left arm (viewer's right): hand gripping the strap where it crosses his waist just above the satchel flap, off the pouch.
+Flask: upright, cork up, fully visible, not overlapping the pouch.
+Cloth and bags: coat tails sway back toward the viewer's right, frayed hem visible; satchel swings gently.
+Ground: soft shadow under both boots.
